@@ -1,5 +1,6 @@
 # MethaneHydrates
 
+Repolink - https://github.com/Poriyalar/MethaneHydrates
 <h2>Introduction</h2>
 Gas hydrates are crystalline solids that exist typically below the ocean floor at greater depths. These hydrates are observed around 200m below the ocean floor at the Vestnesa Ridge. (Plaza-Faverola et al., 2017). Simple methods to model hydrate stable conditions help develop first order approximate estimates prior to performing complex calculations. Such estimates help build conceptual models about the myriad problems related to Vestnesa Ridge. The hydrate stability was estimated using Tishchenko’s result (Tishchenko et al., 2005). Brief description about the approach, equation used, and results are shown below.
 
