@@ -3,9 +3,9 @@
 [Repolink](https://github.com/Poriyalar/MethaneHydrates/)        [Weblink](https://poriyalar.github.io/MethaneHydrates/)
 
 <h2>Introduction</h2>
-Gas hydrates are crystalline solids that exist typically below the ocean floor at greater depths. These hydrates are observed around 200m below the ocean floor at the Vestnesa Ridge. (Plaza-Faverola et al., 2017). Simple methods to model hydrate stable conditions help develop first order approximate estimates prior to performing complex calculations. Such estimates help build conceptual models about the myriad problems related to Vestnesa Ridge. The hydrate stability was estimated using Tishchenko’s result (Tishchenko et al., 2005). Brief description about the approach, equation used, and results are shown below.
+Gas hydrates are crystalline solids that exist typically below the ocean floor at greater depths. These hydrates are observed around 200m below the ocean floor at the Vestnesa Ridge. (Plaza-Faverola et al., 2017). Simple methods to model hydrate stable conditions help develop first order approximate estimates prior to performing complex calculations. Such estimates help build conceptual models about the myriad problems related to Vestnesa Ridge. The hydrate stability was estimated using Tishchenko’s result (Tishchenko et al., 2005).
 
-<h2>Hydrate Stability </h2>
+<h2>Hydrate Stability</h2>
 <p>Tishchenko et al, 2005 developed a correlation to predict methane-hydrate phase boundary for different pressure, temperature, and salinity conditions. The correlation is accurate enough with a maximum uncertainty of +/- 0.04 MPa or a few meters (~4) of hydrate stability zone. The effect of salts and dissolved methane were accounted for using an accurate Pitzer activity coefficient approach (Pitzer, 1991). The formulation also includes changes in the activity of water in seawater with increased pressure, often ignored and could cause an error in equilibrium pressure determinations (~0.03 MPa or 3 m) (Ruppel and Waite, 2020). This method does not account for the effect pressure and temperature on hydration number (Assumed constant, n = 6), although this effect is very small. This method could never predict methane cage occupancy and hydrate volumes and saturation. Even so, this correlation is quite simple and reliable to model methane hydrate formation/dissociation conditions.</p>
 
 <h4>Usage</h4>
