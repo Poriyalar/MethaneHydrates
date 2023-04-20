@@ -1,4 +1,5 @@
 # MethaneHydrates
+theme: Architect
 
 [Repolink](https://github.com/Poriyalar/MethaneHydrates/)        [Weblink](https://poriyalar.github.io/MethaneHydrates/)
 
